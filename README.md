@@ -5,7 +5,7 @@
 
 **Aim**: Visualisation of deep learning model using GradCam.
 
-**Model**: Select a deep learning model Vgg19 and train it for 10-class classification.
+**Model**: designed a deep learning model and train it for 10-class classification.
 
 **Results**
 
